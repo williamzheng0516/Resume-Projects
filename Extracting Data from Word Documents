@@ -1,5 +1,3 @@
-def hawkID():
-    return("wjzheng")
 
 def q1(infoDict, listOfLists):
     #the largest element in listOfLists[i] if listOfLists[i] is red,
