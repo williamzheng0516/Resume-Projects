@@ -1,0 +1,11 @@
+These AIRLINES fly into ABE: ['9E', 'G4', 'OH', 'OO']
+These AIRLINES fly into ATL: ['9E', 'AA', 'AS', 'B6', 'DL', 'F9', 'MQ', 'NK', 'OH', 'OO', 'UA', 'WN', 'YX']
+These AIRPORTS have direct flights into ABE: ['ATL', 'BNA', 'DEN', 'FLL', 'MYR', 'PGD', 'PIE', 'SFB', 'SRQ', 'CLT', 'ORD']
+These AIRPORTS have direct flights into ATL: ['ABE', 'ABY', 'AEX', 'AGS', 'AVL', 'BHM', 'BNA', 'BQK', 'CAE', 'CHA', 'CHO', 'CHS', 'CRW', 'CSG', 'DAY', 'DHN', 'EVV', 'FAY', 'GSO', 'GSP', 'GTR', 'HSV', 'ILM', 'LIT', 'MDT', 'MGM', 'MLI', 'MLU', 'MOB', 'OAJ', 'OMA', 'ROA', 'SAV', 'SDF', 'SHV', 'TRI', 'TVC', 'TYS', 'VLD', 'XNA', 'CLT', 'DCA', 'DFW', 'LAX', 'MIA', 'ORD', 'PHL', 'PHX', 'SEA', 'BOS', 'FLL', 'JFK', 'LGA', 'ABQ', 'ALB', 'ANC', 'ATW', 'AUS', 'BDL', 'BOI', 'BTR', 'BTV', 'BUF', 'BWI', 'BZN', 'CID', 'CLE', 'CMH', 'COS', 'CVG', 'DAB', 'DAL', 'DEN', 'DSM', 'DTW', 'ECP', 'ELP', 'EWR', 'EYW', 'FSD', 'GEG', 'GNV', 'GPT', 'GRB', 'GRR', 'HNL', 'HOU', 'HPN', 'IAD', 'IAH', 'ICT', 'IND', 'JAC', 'JAN', 'JAX', 'LAS', 'LEX', 'MCI', 'MCO', 'MDW', 'MEM', 'MKE', 'MLB', 'MSN', 'MSP', 'MSY', 'MYR', 'OKC', 'ONT', 'ORF', 'PBI', 'PDX', 'PIT', 'PNS', 'PVD', 'PWM', 'RDU', 'RIC', 'ROC', 'RSW', 'SAN', 'SAT', 'SFO', 'SGF', 'SJC', 'SJU', 'SLC', 'SMF', 'SNA', 'SRQ', 'STL', 'STT', 'STX', 'SYR', 'TLH', 'TPA', 'TUL', 'TUS', 'VPS', 'TTN', 'BMI', 'FWA', 'LFT', 'SBN', 'OAK', 'HHH']
+
+ ATL has 9 more inbound airlines than ABE. 13 vs 13
+ ATL has 135 more airports that connects than ABE. 146 vs 11
+Average delay for ABE: 29 minutes
+Average delay for ATL: 11 minutes
+For ABE in July, 32.1% of flights were late
+For ATL in July, 22.1% of flights were late
